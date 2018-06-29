@@ -1,6 +1,6 @@
 //define functions here
-function getIT(){
-  $('p').on("click", getIT(g){
+function getIt(){
+  $('p').on("click", getIt(g){
     if (g.which ==)
 }
   
